@@ -9,6 +9,13 @@ go
 use edunovawp7;
 go
 
-create table smjer(
-naziv varchar(50)
+create table smjerovi(
+sifra int,
+naziv varchar(50),
+trajanje int,
+cijena decimal(18,2),
+voucer bit, 
+izvodiseod datetime
 );
+
+
