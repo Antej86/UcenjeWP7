@@ -1,11 +1,11 @@
-﻿use master;
+﻿-- Ovako se pišu komentari
+
+use master;
 go
 drop database if exists edunovawp7;
 go
-
 create database edunovawp7;
 go
-
 use edunovawp7;
 go
 
@@ -14,10 +14,9 @@ sifra int,
 naziv varchar(50),
 trajanje int,
 cijena decimal(18,2),
-voucer bit, 
+vaucer bit,
 izvodiseod datetime
 );
-
 
 create table polaznici(
 sifra int,
@@ -35,7 +34,7 @@ predavac varchar(50)
 );
 
 
-create table clanovi (
-grupa int,
+create table clanovi(
+grupa int ,
 polaznik int
 );
