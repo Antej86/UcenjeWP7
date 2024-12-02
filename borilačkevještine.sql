@@ -16,7 +16,7 @@ drzava varchar (50) not null
 );
 
 create table Klub(
-sifra int not null references Organizacija(sifra),
+sifra int not null primary key identity(1,1),
 naziv varchar(50) not null,
 osnovan datetime not null,
 predsjednik varchar(50) not null,
@@ -31,5 +31,14 @@ prezime varchar(50) not null,
 datum_rođenja datetime not null,
 vještina varchar(50) not null,
 rekord varchar(50) not null,
-klub int not null references Klub(sifra)
+klub int references Klub(sifra) not null,
+);
+
+create table Trener(
+sifra int not null primary key identity(1,1)
+ime varchar(50) not null,
+prezime varchar(50) not null,
+klub int refrences Klub(sifra) not null,
+nacionalnost varchar(50) not null,
+iskustvo varchar(50) not null
 );
