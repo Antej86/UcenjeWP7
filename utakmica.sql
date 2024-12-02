@@ -23,8 +23,8 @@ datum datetime not null,
 vrijeme datetime not null,
 lokacija varchar(50) not null,
 stadion varchar(50) not null,
-domaci_klub varchar(50) references klub(sifra) not null,
-gostujuci_klub varchar(50) references klub(sifra) not null
+domaci_klub int references klub(sifra) not null,
+gostujuci_klub int references klub(sifra) not null
 );
 
 create table trener(
