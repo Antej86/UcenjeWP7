@@ -35,10 +35,10 @@ klub int references Klub(sifra) not null,
 );
 
 create table Trener(
-sifra int not null primary key identity(1,1)
+sifra int not null primary key identity(1,1),
 ime varchar(50) not null,
 prezime varchar(50) not null,
-klub int refrences Klub(sifra) not null,
+klub int references Klub(sifra) not null,
 nacionalnost varchar(50) not null,
 iskustvo varchar(50) not null
 );
