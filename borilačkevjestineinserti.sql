@@ -18,3 +18,14 @@ insert into Klub
 
 Insert into Borac
 (ime,prezime,datum_rođenja,vještina,rekord,klub)
+
+INSERT INTO Borac (ime, prezime, datum_rođenja, vještina, rekord, klub)
+VALUES
+('Dustin', 'Poirier', '1989-01-19', 'MMA, Boxing, Brazilian Jiu-Jitsu', '29–8 (1 NC)',1),
+('Amanda', 'Nunes', '1988-05-30', 'Brazilian Jiu-Jitsu, Boxing, Muay Thai, MMA', '23–5',1),
+('Angela', 'Lee', '1996-07-08', 'Brazilian Jiu-Jitsu, MMA, Muay Thai, Wrestling', '11–3',2),
+('Eddie', 'Alvarez', '1984-01-11', 'Brazilian Jiu-Jitsu, Boxing, Wrestling', '31–8 (1 NC)',2),
+('Patricio', 'Pitbull', '1987-01-07', 'Brazilian Jiu-Jitsu, Boxing, MMA', '34–6',3),
+('Holly', 'Holm', '1981-10-17', 'Boxing, Kickboxing, Brazilian Jiu-Jitsu, MMA', '15–6',3),
+('Giorgio', 'Petrosyan', '1985-06-10', 'Kickboxing, Muay Thai', '105–3–2',4),
+('Andy', 'Souwer', '1981-08-20', 'Kickboxing, Muay Thai', '164–19–1',4);
