@@ -1,0 +1,40 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/BorilackiKlubAPP/assets/index-8QXjyncW.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\index-8QXjyncW.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Lzmf7MutFyIL67\u002BDOnvOj09JZRSKDE/ZqDrC7/tIG8w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"231999"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Lzmf7MutFyIL67\u002BDOnvOj09JZRSKDE/ZqDrC7/tIG8w=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 12:02:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BorilackiKlubAPP/assets/index-8QXjyncW.vofvg2ok77.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\index-8QXjyncW.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vofvg2ok77"},{"Name":"integrity","Value":"sha256-Lzmf7MutFyIL67\u002BDOnvOj09JZRSKDE/ZqDrC7/tIG8w="},{"Name":"label","Value":"_content/BorilackiKlubAPP/assets/index-8QXjyncW.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"231999"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Lzmf7MutFyIL67\u002BDOnvOj09JZRSKDE/ZqDrC7/tIG8w=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 12:02:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BorilackiKlubAPP/assets/index-DKgGiYC_.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\index-DKgGiYC_.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mcFU19pOdGRtYPKDDC6JELCVnhgibyoq0aRqFfC83o4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"343260"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022mcFU19pOdGRtYPKDDC6JELCVnhgibyoq0aRqFfC83o4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 12:02:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BorilackiKlubAPP/assets/index-DKgGiYC_.x62mt0hb9a.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\index-DKgGiYC_.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x62mt0hb9a"},{"Name":"integrity","Value":"sha256-mcFU19pOdGRtYPKDDC6JELCVnhgibyoq0aRqFfC83o4="},{"Name":"label","Value":"_content/BorilackiKlubAPP/assets/index-DKgGiYC_.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"343260"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022mcFU19pOdGRtYPKDDC6JELCVnhgibyoq0aRqFfC83o4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 12:02:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BorilackiKlubAPP/index.37v4aagtk3.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"37v4aagtk3"},{"Name":"integrity","Value":"sha256-EZej5sVuQ\u002BKOnMtGERFaZ3JOWe/igucqP\u002BPl6kJJd78="},{"Name":"label","Value":"_content/BorilackiKlubAPP/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"461"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022EZej5sVuQ\u002BKOnMtGERFaZ3JOWe/igucqP\u002BPl6kJJd78=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 12:02:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BorilackiKlubAPP/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-EZej5sVuQ\u002BKOnMtGERFaZ3JOWe/igucqP\u002BPl6kJJd78="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"461"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022EZej5sVuQ\u002BKOnMtGERFaZ3JOWe/igucqP\u002BPl6kJJd78=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Mar 2025 12:02:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

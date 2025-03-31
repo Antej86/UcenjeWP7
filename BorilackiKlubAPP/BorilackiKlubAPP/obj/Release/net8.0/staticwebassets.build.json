@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "CajAArIZ7EtqzysAI7sBog3MrEqBe6TMlusJQGfGXQw=",
+  "Source": "BorilackiKlubAPP",
+  "BasePath": "_content/BorilackiKlubAPP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BorilackiKlubAPP\\wwwroot",
+      "Source": "BorilackiKlubAPP",
+      "ContentRoot": "C:\\Users\\Polaznik\\Downloads\\BorilackiKlubAPP\\wwwroot\\",
+      "BasePath": "_content/BorilackiKlubAPP",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Polaznik\\Downloads\\BorilackiKlubAPP\\wwwroot\\assets\\index-8QXjyncW.css",
+      "SourceId": "BorilackiKlubAPP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Polaznik\\Downloads\\BorilackiKlubAPP\\wwwroot\\",
+      "BasePath": "_content/BorilackiKlubAPP",
+      "RelativePath": "assets/index-8QXjyncW#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vofvg2ok77",
+      "Integrity": "Lzmf7MutFyIL67+DOnvOj09JZRSKDE/ZqDrC7/tIG8w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-8QXjyncW.css"
+    },
+    {
+      "Identity": "C:\\Users\\Polaznik\\Downloads\\BorilackiKlubAPP\\wwwroot\\assets\\index-DKgGiYC_.js",
+      "SourceId": "BorilackiKlubAPP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Polaznik\\Downloads\\BorilackiKlubAPP\\wwwroot\\",
+      "BasePath": "_content/BorilackiKlubAPP",
+      "RelativePath": "assets/index-DKgGiYC_#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x62mt0hb9a",
+      "Integrity": "mcFU19pOdGRtYPKDDC6JELCVnhgibyoq0aRqFfC83o4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-DKgGiYC_.js"
+    },
+    {
+      "Identity": "C:\\Users\\Polaznik\\Downloads\\BorilackiKlubAPP\\wwwroot\\index.html",
+      "SourceId": "BorilackiKlubAPP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Polaznik\\Downloads\\BorilackiKlubAPP\\wwwroot\\",
+      "BasePath": "_content/BorilackiKlubAPP",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "37v4aagtk3",
+      "Integrity": "EZej5sVuQ+KOnMtGERFaZ3JOWe/igucqP+Pl6kJJd78=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "assets/index-8QXjyncW.css",
+      "AssetFile": "C:\\Users\\Polaznik\\Downloads\\BorilackiKlubAPP\\wwwroot\\assets\\index-8QXjyncW.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231999"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lzmf7MutFyIL67+DOnvOj09JZRSKDE/ZqDrC7/tIG8w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 12:02:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lzmf7MutFyIL67+DOnvOj09JZRSKDE/ZqDrC7/tIG8w="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-8QXjyncW.vofvg2ok77.css",
+      "AssetFile": "C:\\Users\\Polaznik\\Downloads\\BorilackiKlubAPP\\wwwroot\\assets\\index-8QXjyncW.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231999"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Lzmf7MutFyIL67+DOnvOj09JZRSKDE/ZqDrC7/tIG8w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 12:02:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vofvg2ok77"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-8QXjyncW.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Lzmf7MutFyIL67+DOnvOj09JZRSKDE/ZqDrC7/tIG8w="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DKgGiYC_.js",
+      "AssetFile": "C:\\Users\\Polaznik\\Downloads\\BorilackiKlubAPP\\wwwroot\\assets\\index-DKgGiYC_.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "343260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mcFU19pOdGRtYPKDDC6JELCVnhgibyoq0aRqFfC83o4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 12:02:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mcFU19pOdGRtYPKDDC6JELCVnhgibyoq0aRqFfC83o4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-DKgGiYC_.x62mt0hb9a.js",
+      "AssetFile": "C:\\Users\\Polaznik\\Downloads\\BorilackiKlubAPP\\wwwroot\\assets\\index-DKgGiYC_.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "343260"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mcFU19pOdGRtYPKDDC6JELCVnhgibyoq0aRqFfC83o4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 12:02:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x62mt0hb9a"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-DKgGiYC_.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mcFU19pOdGRtYPKDDC6JELCVnhgibyoq0aRqFfC83o4="
+        }
+      ]
+    },
+    {
+      "Route": "index.37v4aagtk3.html",
+      "AssetFile": "C:\\Users\\Polaznik\\Downloads\\BorilackiKlubAPP\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EZej5sVuQ+KOnMtGERFaZ3JOWe/igucqP+Pl6kJJd78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 12:02:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "37v4aagtk3"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EZej5sVuQ+KOnMtGERFaZ3JOWe/igucqP+Pl6kJJd78="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Polaznik\\Downloads\\BorilackiKlubAPP\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EZej5sVuQ+KOnMtGERFaZ3JOWe/igucqP+Pl6kJJd78=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 12:02:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EZej5sVuQ+KOnMtGERFaZ3JOWe/igucqP+Pl6kJJd78="
+        }
+      ]
+    }
+  ]
+}
